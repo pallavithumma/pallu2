@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>dept</name>
+        <order>100</order>
+        <roles>x_366625_sriindu3.dept_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 10:25:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4bac0b54db423300a7aef53a299619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dept</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sriindu3" source="x_366625_sriindu3">f97c87d0db423300a7aef53a29961918</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sriindu3">f97c87d0db423300a7aef53a29961918</sys_scope>
+        <sys_update_name>sys_app_application_4bac0b54db423300a7aef53a299619e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 10:25:35</sys_updated_on>
+        <title>dept</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

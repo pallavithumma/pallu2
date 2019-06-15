@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="student">d6cccb54db423300a7aef53a29961916</application>
+        <filter/>
+        <name>students</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_366625_sriindu3.student_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 10:26:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>12cccb54db423300a7aef53a29961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>students</sys_name>
+        <sys_package display_value="sriindu3" source="x_366625_sriindu3">f97c87d0db423300a7aef53a29961918</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sriindu3">f97c87d0db423300a7aef53a29961918</sys_scope>
+        <sys_update_name>sys_ui_module_12cccb54db423300a7aef53a29961918</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 10:26:05</sys_updated_on>
+        <table>x_366625_sriindu3_student</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
